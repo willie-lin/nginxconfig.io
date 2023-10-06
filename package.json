@@ -78,7 +78,7 @@
     "esm": "^3.2.25",
     "jest": "^27.5.1",
     "node-fetch": "^3.2.0",
-    "postcss": "^8.4.6",
+    "postcss": "^8.4.31",
     "sass": "^1.49.8",
     "sass-loader": "^12.6.0",
     "stylelint": "^14.5.1",
